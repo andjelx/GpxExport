@@ -1,5 +1,5 @@
 import HealthKit
-import WatchKit
+import MapKit
 
 class WorkoutDataStore {
     private var healthStore: HKHealthStore
